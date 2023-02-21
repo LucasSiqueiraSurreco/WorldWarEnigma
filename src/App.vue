@@ -77,6 +77,7 @@
     <div class="columns">
       <div class="column is-full has-text-centered">
         <p>Made with JavaScript and Vue.js</p>
+        <a href="https://github.com/LucasSiqueiraSurreco">Lucas Siqueira Surreco github</a>
       </div>
     </div>
   </footer>
